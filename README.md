@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TheBossManY
+- 👋 Hi, I’m Pragalbh Mishra
 - 👀 I’m interested in doing anything with my computer thats helpful for me or other people
 - 🌱 I’m currently learning Backend Web Development
-- 💞️ I’m looking to collaborate on a few projects I have ideas of in my mind (but after I'm done with learning backend and a few other things)
+- 💞️ I’m looking to do/collaborate (on) projects so... hmu
 - 📫 You can email me on pragalbhmishra12@gmail.com
 
 <!---
